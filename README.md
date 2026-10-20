@@ -1,9 +1,9 @@
-# Laboratory Work No. 1: SOLID Principles
+# Laboratory Work No. 0: SOLID Principles
 
 ## Student Information
 
-- **Student:** [Your full name]
-- **Group:** [Your group]
+- **Student:** Daniil Cerneaga
+- **Group:** FAF-243
 
 ## Objective
 
