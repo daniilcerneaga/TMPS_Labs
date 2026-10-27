@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p13Z7B3cBGc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vestl\\Desktop\\TMPS Labs\\TMPS Lab 2\\GamePatternsLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vestl\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\vestl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\vestl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\vestl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.32\\microsoft.netcore.app.host.win-x64.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
